@@ -1,0 +1,2 @@
+# hsinti
+Ai homework 
